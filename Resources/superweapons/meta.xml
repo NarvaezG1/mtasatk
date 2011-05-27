@@ -1,0 +1,12 @@
+<meta>
+    <info author="Ransom, CaRLoS" version="4.0.0" type="script"/>
+    <config src="help.xml" type="client"/>
+    <script src="ioncannon.lua" />
+    <script src="nuke.lua" />
+    <script src="carpetbomb.lua" />
+    <script src="orbitalstrike.lua" />
+    <script src="ionCannonClient.lua" type="client" />
+    <script src="nukeClient.lua" type="client" />
+    <script src="carpetbombClient.lua" type="client" />	
+    <script src="orbitalstrikeClient.lua" type="client" />	
+</meta>
