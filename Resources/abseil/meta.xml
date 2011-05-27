@@ -1,0 +1,10 @@
+<meta>
+	
+	<info author="eXo|dragon, CaRLoS" description="Gives you the ability to abseil from helicopters" type="script" version="1.0.4" />
+	
+	<config src="help.xml" type="client"/>
+	
+	<script src="main_server.lua" type="server"/>
+	<script src="main_client.lua" type="client"/>
+	
+</meta>
