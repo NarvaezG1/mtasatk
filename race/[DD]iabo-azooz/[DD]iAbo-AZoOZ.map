@@ -1,0 +1,30 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (vgEhshade01_lvs) (1)" doublesided="false" model="8838" interior="0" dimension="0" posX="4009.4931640625" posY="-1736.3529052734" posZ="4.2331352233887" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" posX="3996.7546386719" posY="-1736.1417236328" posZ="6.3972392082214" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (vgEhshade01_lvs) (2)" doublesided="false" model="8838" interior="0" dimension="0" posX="4035.8815917969" posY="-1736.4113769531" posZ="4.2043037414551" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (3)" doublesided="false" model="8838" interior="0" dimension="0" posX="4067.5666503906" posY="-1736.5401611328" posZ="2.8970031738281" rotX="0" rotY="4" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (4)" doublesided="false" model="8838" interior="0" dimension="0" posX="4095.4489746094" posY="-1736.7286376953" posZ="5.3434219360352" rotX="0" rotY="20" rotZ="178" />
+    <object id="object (vgEhshade01_lvs) (5)" doublesided="false" model="8838" interior="0" dimension="0" posX="4111.6313476563" posY="-1747.5347900391" posZ="10.898572921753" rotX="0" rotY="0" rotZ="86" />
+    <object id="object (vgEhshade01_lvs) (6)" doublesided="false" model="8838" interior="0" dimension="0" posX="4118.3857421875" posY="-1765.3388671875" posZ="10.605278015137" rotX="0" rotY="0" rotZ="1.99951171875" />
+    <object id="object (vgEhshade01_lvs) (7)" doublesided="false" model="8838" interior="0" dimension="0" posX="4160.111328125" posY="-1742.7421875" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Infernus) (2)" vehicle="411" posX="4145.9477539063" posY="-1742.4285888672" posZ="2.1641039848328" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (vgEhshade01_lvs) (8)" doublesided="false" model="8838" interior="0" dimension="0" posX="4184.8647460938" posY="-1742.7152099609" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (9)" doublesided="false" model="8838" interior="0" dimension="0" posX="4212.0263671875" posY="-1742.2868652344" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (10)" doublesided="false" model="8838" interior="0" dimension="0" posX="4239.9887695313" posY="-1742.1663818359" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (11)" doublesided="false" model="8838" interior="0" dimension="0" posX="4268.1352539063" posY="-1763.5584716797" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Infernus) (3)" vehicle="411" posX="4254.5986328125" posY="-1763.3553466797" posZ="2.1641039848328" rotX="0" rotY="0" rotZ="270" />
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" posX="4119.3818359375" posY="-1765.5230712891" posZ="13.486881256104" rotX="0" rotY="0" rotZ="120.953125" />
+    <object id="object (vgEhshade01_lvs) (12)" doublesided="false" model="8838" interior="0" dimension="0" posX="4284.63671875" posY="-1777.2131347656" posZ="0" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (vgEhshade01_lvs) (13)" doublesided="false" model="8838" interior="0" dimension="0" posX="4272.3701171875" posY="-1794.6535644531" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (14)" doublesided="false" model="8838" interior="0" dimension="0" posX="4253.1049804688" posY="-1794.05859375" posZ="0" rotX="0" rotY="22" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (15)" doublesided="false" model="8838" interior="0" dimension="0" posX="4231.921875" posY="-1794.3168945313" posZ="1.6398544311523" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Infernus) (4)" vehicle="411" posX="4220.583984375" posY="-1794.5910644531" posZ="3.8308300971985" rotX="0" rotY="0" rotZ="88" />
+    <object id="object (vgEhshade01_lvs) (16)" doublesided="false" model="8838" interior="0" dimension="0" posX="4212.9521484375" posY="-1791.4750976563" posZ="0.23421096801758" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (17)" doublesided="false" model="8838" interior="0" dimension="0" posX="4146.638671875" posY="-1764.7386474609" posZ="3.6488838195801" rotX="0" rotY="27" rotZ="0" />
+    <object id="object (vgEhshade01_lvs) (18)" doublesided="false" model="8838" interior="0" dimension="0" posX="4156.8852539063" posY="-1759.7365722656" posZ="0" rotX="0" rotY="0" rotZ="88" />
+    <object id="object (vgEhshade01_lvs) (19)" doublesided="false" model="8838" interior="0" dimension="0" posX="4258.8413085938" posY="-1749.4494628906" posZ="0" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (vgEhshade01_lvs) (20)" doublesided="false" model="8838" interior="0" dimension="0" posX="4191.5180664063" posY="-1791.7075195313" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Infernus) (5)" vehicle="411" posX="4180.9677734375" posY="-1792.2156982422" posZ="2.1909756660461" rotX="0" rotY="0" rotZ="88" />
+    <object id="object (vgEhshade01_lvs) (21)" doublesided="false" model="8838" interior="0" dimension="0" posX="4168.4775390625" posY="-1778.8013916016" posZ="0" rotX="0" rotY="0" rotZ="130" />
+    <racepickup id="racepickup (NRG-500) (1)" type="repair" vehicle="522" respawn="0" posX="4201.8061523438" posY="-1744.2492675781" posZ="2.881603717804" rotX="0" rotY="0" rotZ="348.65625" />
+</map>
